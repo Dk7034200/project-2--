@@ -1,1 +1,1 @@
-# project-w
+Pixel Manipulation for Image Encryption
